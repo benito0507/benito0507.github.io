@@ -6,7 +6,7 @@ Welcome to my personal website repository! This project showcases my engineering
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
+- [Website](#Website)
 - [Usage](#usage)
 - [Sections](#sections)
 - [Contact](#contact)
@@ -21,10 +21,8 @@ This website is a personal portfolio designed to present my engineering and acad
 - Easy navigation between different sections of the site
 - Links to my projects, resume, and contact information
 
-## Installation
+## Website
 
-To run this project locally:
-
-1. Clone this repository:
+1. Benito's Website:
    ```bash
-   git clone https://github.com/benito0507/benito0507.github.io.git
+https://github.com/benito0507/benito0507.github.io.git
